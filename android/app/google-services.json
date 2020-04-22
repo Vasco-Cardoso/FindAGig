@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682882098929",
+    "firebase_url": "https://getagig-baa4c.firebaseio.com",
+    "project_id": "getagig-baa4c",
+    "storage_bucket": "getagig-baa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682882098929:android:48c0c6016bd731aae9eb50",
+        "android_client_info": {
+          "package_name": "com.example.findagig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682882098929-r531dgro09q6dobbkrmj9t03utptran9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MUS2ipC6JeZz4Nr1eFlNuz14kds-BYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682882098929-r531dgro09q6dobbkrmj9t03utptran9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

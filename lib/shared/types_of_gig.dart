@@ -1,0 +1,5 @@
+enum TYPE_OF_GIG {
+  BABYSITTING,
+  CLEAN,
+  WASH_CAR
+}
